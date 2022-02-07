@@ -1,0 +1,6 @@
+customhost = "database-1.ccjfefi0z7k2.us-east-2.rds.amazonaws.com"
+customuser = "cloudemployee"
+custompass = "cloudemployee"
+customdb = "employee"
+custombucket = "myemployeedata"
+customregion = "us-east-2"
